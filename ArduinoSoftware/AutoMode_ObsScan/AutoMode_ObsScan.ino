@@ -1,5 +1,5 @@
 /* 
-Rover controlled via bluetooth controller, with ultrasonic crash detection
+Autonomous rover, with ultrasonic crash detection. 
 */
 #include <NewPing.h>
 
