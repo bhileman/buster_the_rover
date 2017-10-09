@@ -9,11 +9,11 @@ Hardware:
     Arduino Uno
     
 - Sensors:
-    HCSR04 Ultrasonic Sensor
-    Start/Stop Buttons
-    Two Momentary collision detection buttons
+    - HCSR04 Ultrasonic Sensor
+    - Start/Stop Buttons
+    - Two Momentary collision detection buttons
     
 - Motors/Drivers:
-    4x small geared DC motors
-    Adafruit motor shield v2
-    1x servo
+    - 4x small geared DC motors
+    - Adafruit motor shield v2
+    - 1x servo
